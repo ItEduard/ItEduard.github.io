@@ -130,11 +130,14 @@ main {
 .long-news {
 	display: inline-block;
 	width: 808px;
-	padding-top: 30px;
-	height: 300px;
 }
 #qooi-counter {
 	margin-left: 50px; 
+}
+.news-1 {
+	background-image: url(img/oppo.jpg);
+	background-position: center;
+	background-size: 100%;
 }
 .news0 {
 	background-image: url(img/farcry.jpg);
@@ -155,13 +158,13 @@ main {
 	background-image: url(img/Call.jpg);
 	background-size: 150%;
 	background-position: center;
-	padding-top: 10px;
-	height: 320px;
 }
 .news4 {
 	background-image: url(img/clanwar.jpg);
 	background-size: 90%;
 	background-position: top;
+	padding-top: 20px;
+	height: 310px;
 }
 .news5 {
 	background-image: url(img/huawei.jpg);
@@ -177,6 +180,8 @@ main {
 	background-image: url(img/win.jpg);
 	background-size: 80%;
 	background-position: center;
+	padding-top: 20px;
+	height: 310px;
 }
 
 .gradient {
