@@ -136,6 +136,11 @@ main {
 #qooi-counter {
 	margin-left: 50px; 
 }
+.news0 {
+	background-image: url(img/oppo.jpg);
+	background-position: center;
+	background-size: 100%;
+}
 .news1 {
 	background-image: url(img/mac.jpg);
 	background-position: bottom;
