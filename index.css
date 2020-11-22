@@ -134,6 +134,11 @@ main {
 #qooi-counter {
 	margin-left: 50px; 
 }
+.news-2 {
+	background-image: url(img/Tesla.png);
+	background-position: center;
+	background-size: 90%;
+}
 .news-1 {
 	background-image: url(img/oppo.jpg);
 	background-position: center;
