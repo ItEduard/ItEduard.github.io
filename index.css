@@ -235,6 +235,7 @@ h3 {
 footer {
 	width: 100%;
 	margin-top: 200px;
+	position: absolute;
 }
 .bottom-footer {
 	width: 100%;
@@ -339,5 +340,8 @@ footer {
 	.main-news {
 		width: 100%;
 		padding-left: 45px;
+	}
+	.counter {
+		margin-left: 500px;
 	}
 } 
