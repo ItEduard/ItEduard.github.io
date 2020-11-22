@@ -178,3 +178,24 @@ footer {
 	margin-left: 1250px;
 	padding-top: 27px
 }
+
+@media (max-width: 1320px) {
+	.div-container {
+		width: 100%;
+	}
+	.footer-list-left {
+		left: 400px;
+	}
+	.footer-list-right {
+		left: 600px;
+	}
+	.footer-list-right1 {
+		left: 800px;
+	}
+	.main-text-footer {
+		width: 300px;
+	}
+	.counter {
+		margin-left: 500px;
+	}
+} 
