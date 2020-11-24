@@ -136,6 +136,11 @@ main {
 #qooi-counter {
 	margin-left: 50px; 
 }
+.news-1 {
+	background-image: url(img/rus.jpg);
+	background-position: center;
+	background-size: 140%;
+}
 .news0 {
 	background-image: url(img/oppo1.jpg);
 	background-position: center;
